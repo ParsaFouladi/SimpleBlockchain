@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "eVwB3UwydzUjJ9NapcQbtb60yuwG3uHLcISzJSg77VITT0Dc/Kd7DLAv6PyHt3oLG5Wpk0DLmGb4AAwcLzEJQw==",
+  "success": true,
+  "projectFilePath": "D:\\P2PNetwork\\P2PNetwork\\BlockchainDemo\\BlockchainDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\websocketsharp-netstandard\\1.0.1\\websocketsharp-netstandard.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
